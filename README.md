@@ -1,5 +1,6 @@
 <div align="center">
-  
+![Rahul Saini — Aspiring Data Professional]([https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/main/assets/banner.png](https://github.com/Rahul120402/Rahul120402/blob/main/ChatGPT%20Image%20Aug%2018%2C%202025%2C%2002_58_35%20PM.png))
+ 
 # Rahul Saini
 **Aspiring Data Professional** · SQL · Python · Power BI · Excel · Azure  
 Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab6238/) · rahulkp1204@gmail.com
