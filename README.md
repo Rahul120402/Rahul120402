@@ -51,8 +51,8 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 
 ---
 
-### ⚡ How I Work
-- Ruthless focus on **business impact** over vanity metrics.  
-- Ship fast, iterate, and document clearly.  
-- Continuous learner, exploring **data analytics → data engineering → AI**.
+## 🎯 What Drives Me
+- 💡 Turning raw data into insights  
+- ⚡ Automating processes for efficiency  
+- 🌍 Building scalable data solutions 
 
