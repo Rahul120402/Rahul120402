@@ -22,6 +22,11 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 ---
 
 ## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib/Seaborn), MySQL  
 **BI/ETL:** Power BI (DAX, Data Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory  
 **Other:** Basic Java, HTML  
@@ -33,8 +38,6 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 - **E-commerce Sales Dashboard** – Trend analysis that boosted revenue by 15%.  
 - **Library Management System** – SQL-backed app with tracking & authentication.  
 - **Hate Speech Detection** – LSTM/BERT model (~85% accuracy).  
-
-> 👉 Pin these repositories: Profile → **Customize your pins** so they show up on your profile.
 
 ---
 
