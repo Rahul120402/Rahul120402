@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rahul120402/Rahul120402/blob/main/ChatGPT%20Image%20Aug%2018%2C%202025%2C%2003_13_11%20PM.png" 
+  <img src="https://github.com/Rahul120402/Rahul120402/blob/main/Cover%20Image.png" 
        alt="Rahul Saini — Aspiring Data Professional" 
        style="max-width:100%; height:auto;/>
 </p>
