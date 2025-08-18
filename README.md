@@ -34,11 +34,17 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 
 ---
 
-## 🗂️ Featured Projects
-- **Hotel Booking Dashboard** – Occupancy & revenue analytics in Power BI.  
-- **E-commerce Sales Dashboard** – Trend analysis that boosted revenue by 15%.  
-- **Library Management System** – SQL-backed app with tracking & authentication.  
-- **Hate Speech Detection** – LSTM/BERT model (~85% accuracy).  
+## 📚 Currently Learning
+- Advanced SQL (Window Functions, Optimization)  
+- Data Engineering with Apache Airflow  
+- Generative AI for Analytics  
+
+---
+
+## 🎯 What Drives Me
+- 💡 Turning raw data into insights  
+- ⚡ Automating processes for efficiency  
+- 🌍 Building scalable data solutions   
 
 ---
 
