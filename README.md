@@ -38,13 +38,6 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 
 ---
 
-## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul120402&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul120402&layout=compact)  
-![Streak](https://streak-stats.demolab.com?user=Rahul120402)
-
----
-
 ## 🤝 Connect
 - 📫 **Email:** [rahulkp1204@gmail.com](mailto:rahulkp1204@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/rahul-saini-082ab6238](https://www.linkedin.com/in/rahul-saini-082ab6238/)  
