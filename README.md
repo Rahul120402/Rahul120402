@@ -22,8 +22,14 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 ---
 
 ## 🧰 Tech Stack
-**Languages/DB:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) (Pandas, NumPy, Matplotlib/Seaborn), ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)  
-**BI/ETL:** ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) (DAX, Data Modeling), ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) (Advanced Formulas, Pivot, Power Query, Macros), ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white) Data Factory  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+
+**Languages/DB:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL(Joins & Aggregation)  
+**BI/ETL:** Power BI (DAX, Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory, Airflow 
 **Other:** Basic Java, HTML  
 
 ---
