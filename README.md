@@ -7,7 +7,7 @@
 <div align="center">
   
 # Rahul Saini
-**Aspiring Data Professional** · SQL · Python · Power BI · Excel · Azure  
+**Aspiring Data Professional** · SQL · Python · Power BI · Excel · Azure · Airflow  
 Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab6238/) · rahulkp1204@gmail.com  
 
 </div>
@@ -23,7 +23,7 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 
 ## 🧰 Tech Stack
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib/Seaborn), MySQL  
-**BI/ETL:** Power BI (DAX, Data Modeling), Excel (Advanced Formulas, Pivot, Power Query), Azure Data Factory  
+**BI/ETL:** Power BI (DAX, Data Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory  
 **Other:** Basic Java, HTML  
 
 ---
