@@ -1,16 +1,20 @@
 <p align="center">
   <img src="https://github.com/Rahul120402/Rahul120402/blob/main/Cover%20Image.png" 
        alt="Rahul Saini — Aspiring Data Professional" 
-       style="max-width:100%; height:auto;" />
+       width="100%" />
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=header"/>
+<!-- Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=header&width=100%"/>
 
 # Rahul Saini
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00F700&center=true&vCenter=true&width=600&lines=Aspiring+Data+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Azure+%7C+Airflow;Always+Learning+New+Things!)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00F700&center=true&vCenter=true&width=800&lines=Aspiring+Data+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Azure+%7C+Airflow;Always+Learning+New+Things!" alt="Typing SVG">
+</p>
 
 **Aspiring Data Professional** · SQL · Python · Power BI · Excel · Azure · Airflow  
 📍 Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab6238/) · ✉️ rahulkp1204@gmail.com  
@@ -30,7 +34,6 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 
@@ -46,13 +49,11 @@
   <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
 
-  <!-- Power BI (custom badge since not in devicon) -->
+  <!-- Power BI -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
 
-  <!-- Excel (custom badge) -->
+  <!-- Excel -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
-</p>
-
 </p>
 
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL (Joins & Aggregation)  
@@ -114,8 +115,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Working on Data">
 </p>
 
+<!-- Animated Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer"/>
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer&width=100%"/>
