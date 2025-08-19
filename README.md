@@ -33,28 +33,40 @@
 ---
 
 ## 🧰 Tech Stack
+
+<!-- 🔹 Icons (Professional Look) -->
 <p align="center">
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-
-  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-
-  <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-
-  <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
-
-  <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
 </p>
+
+---
+
+<!-- 🔹 Static Badges (Neat & Clear) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+---
+
+<!-- 🔹 Animated Glitch Badges (Cool Portfolio Style) -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Python&width=200&height=60" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=SQL&width=200&height=60" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Power%20BI&width=200&height=60" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Excel&width=200&height=60" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Azure&width=200&height=60" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Airflow&width=200&height=60" />
+</p>
+
 
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL (Joins & Aggregation)  
 **BI/ETL:** Power BI (DAX, Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory, Airflow  
