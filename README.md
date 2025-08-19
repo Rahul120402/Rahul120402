@@ -8,16 +8,18 @@
   
 # Rahul Saini
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00F700&center=true&vCenter=true&width=500&lines=Aspiring+Data+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Azure+%7C+Airflow;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00F700&center=true&vCenter=true&width=600&lines=Aspiring+Data+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Azure+%7C+Airflow;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 **Aspiring Data Professional** · SQL · Python · Power BI · Excel · Azure · Airflow  
-Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab6238/) · rahulkp1204@gmail.com  
+📍 Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab6238/) · ✉️ rahulkp1204@gmail.com  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rahul120402&label=Profile%20Views&color=blue&style=flat)
 
 </div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/rahulkp1204/rahulkp1204/main/assets/divider.gif" width="100%">
 
 ## 👋 About Me
 - 🎓 B.Tech (AI & DS) graduate focused on building a career in the **data domain**.  
@@ -27,11 +29,16 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 ---
 
 ## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+</p>
 
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL (Joins & Aggregation)  
 **BI/ETL:** Power BI (DAX, Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory, Airflow  
@@ -46,23 +53,39 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 
 ---
 
+## 📂 Projects (Click to Expand)
+<details>
+  <summary>📊 Hotel Booking Dashboard</summary>
+  Tools: Power BI, SQL  
+  Features: Occupancy trends, revenue analytics  
+  ![Hotel Dashboard](assets/hotel_dashboard.png)
+</details>
+
+<details>
+  <summary>🛒 E-commerce Sales Dashboard</summary>
+  Tools: Power BI, SQL  
+  Features: Trend analysis boosted revenue by **15%**  
+  ![E-commerce Dashboard](assets/ecommerce_dashboard.png)
+</details>
+
+<details>
+  <summary>📚 Library Management System</summary>
+  Tools: SQL + Frontend  
+  Features: Authentication, automated book tracking  
+</details>
+
+<details>
+  <summary>🤖 Hate Speech Detection</summary>
+  Tools: Python (LSTM, BERT)  
+  Achieved ~85% accuracy on toxic content classification  
+</details>
+
+---
+
 ## 🎯 What Drives Me
 - 💡 Turning raw data into insights  
 - ⚡ Automating processes for efficiency  
 - 🌍 Building scalable data solutions   
-
----
-
-## 📂 Projects (Click to Expand)
-<details>
-  <summary>📊 View My Key Projects</summary>
-  
-  - **Hotel Booking Dashboard** – Analytics of occupancy & revenue trends (Power BI).  
-  - **E-commerce Sales Dashboard** – Trend analysis boosted revenue by **15%**.  
-  - **Library Management System** – SQL-backed app with tracking & authentication.  
-  - **Hate Speech Detection** – LSTM/BERT model (~85% accuracy).  
-
-</details>
 
 ---
 
@@ -77,3 +100,5 @@ Jaipur, Rajasthan · [LinkedIn](https://www.linkedin.com/in/rahul-saini-082ab623
 </p>
 
 <p align="center">⚡ *“Learning every day, one dataset at a time.”* ⚡</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
