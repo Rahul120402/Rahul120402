@@ -120,5 +120,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
 </p>
 
+<div align="center">
+  
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer&width=100%"/>
