@@ -30,12 +30,29 @@
 
 ## 🧰 Tech Stack
 <p align="center">
+  <p align="center">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+
+  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+
+  <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+
+  <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
+
+  <!-- Power BI (custom badge since not in devicon) -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
+
+  <!-- Excel (custom badge) -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
+</p>
+
 </p>
 
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL (Joins & Aggregation)  
