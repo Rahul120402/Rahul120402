@@ -37,7 +37,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Data Analytics GIF" style="width:100%; height:100%; object-fit:contain;">
+<img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Analytics GIF" style="width:100%; height:auto; object-fit:contain;">
 
 </td>
 </tr>
@@ -67,7 +67,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" style="width:100%; height:100%; object-fit:contain;">
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cat Coding GIF" style="width:100%; height:auto; object-fit:contain;">
 
 </td>
 </tr>
@@ -87,7 +87,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Learning GIF" style="width:100%; height:100%; object-fit:contain;">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Learning GIF" style="width:100%; height:auto; object-fit:contain;">
 
 </td>
 </tr>
@@ -131,7 +131,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Projects GIF" style="width:100%; height:100%; object-fit:contain;">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Projects GIF" style="width:100%; height:auto; object-fit:contain;">
 
 </td>
 </tr>
@@ -151,7 +151,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Motivation GIF" style="width:100%; height:100%; object-fit:contain;">
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Motivation GIF" style="width:100%; height:auto; object-fit:contain;">
 
 </td>
 </tr>
@@ -170,7 +170,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/j5hLJYg4v9O5T2vEJ3/giphy.gif" alt="Networking GIF" style="width:100%; height:100%; object-fit:contain;">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Networking GIF" style="width:100%; height:auto; object-fit:contain;">
 
 </td>
 </tr>
