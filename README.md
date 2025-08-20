@@ -30,6 +30,10 @@
 - 📊 Skilled in **SQL, Python, Power BI, and Excel** to turn raw data into actionable insights.  
 - ☁️ Currently learning **Data Engineering** (Azure Data Factory, Airflow) & automation for scalable analytics.  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="About Me">
+</p>
+
 ---
 
 ## 🧰 Tech Stack
@@ -60,12 +64,20 @@
 **BI/ETL:** Power BI (DAX, Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory, Airflow  
 **Other:** Basic Java, HTML  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Stack">
+</p>
+
 ---
 
 ## 📚 Currently Learning
 - Advanced SQL (Window Functions, Optimization)  
 - Data Engineering with Apache Airflow  
 - Generative AI for Analytics  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Learning">
+</p>
 
 ---
 
@@ -100,6 +112,10 @@
   Achieved ~85% accuracy on toxic content classification  
 </details>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Projects">
+</p>
+
 ---
 
 ## 🎯 What Drives Me
@@ -107,17 +123,21 @@
 - ⚡ Automating processes for efficiency  
 - 🌍 Building scalable data solutions   
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Motivation">
+</p>
+
 ---
 
 ## 🤝 Connect
 - 📫 **Email:** [rahulkp1204@gmail.com](mailto:rahulkp1204@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/rahul-saini-082ab6238](https://www.linkedin.com/in/rahul-saini-082ab6238/)  
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Working on Data">
+  <img src="https://media.giphy.com/media/j5h0EC3jx9HjXWjlU3/giphy.gif" width="300" alt="Connect">
 </p>
+
+---
 
 <!-- Animated Quote -->
 <p align="center">
