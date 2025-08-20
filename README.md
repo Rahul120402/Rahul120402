@@ -51,7 +51,9 @@
 </p>
 
 **Languages/DB:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL (Joins & Aggregation)  
+
 **BI/ETL:** Power BI (DAX, Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory, Airflow  
+
 **Other:** Basic Java, HTML  
 
 </td>
