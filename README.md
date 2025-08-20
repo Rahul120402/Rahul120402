@@ -6,14 +6,14 @@
 
 <div align="center">
 
-<!-- Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=header&width=100%"/>
+<!-- Gradient Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=150&section=header&width=100%"/>
 
 # Rahul Saini
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00F700&center=true&vCenter=true&width=800&lines=Aspiring+Data+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Azure+%7C+Airflow;Always+Learning+New+Things!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Professional;SQL+%7C+Python+%7C+Power+BI+%7C+Excel+%7C+Azure+%7C+Airflow;Always+Learning+New+Things!" alt="Typing SVG">
 </p>
 
 **Aspiring Data Professional** · SQL · Python · Power BI · Excel · Azure · Airflow  
@@ -121,10 +121,12 @@
 
 <!-- Animated Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
 </p>
 
 <div align="center">
   
-<!-- Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer&width=100%"/>
+<!-- Gradient Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=150&section=footer&width=100%"/>
+
+</div>
