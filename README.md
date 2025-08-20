@@ -25,23 +25,13 @@
 
 ---
 
-## 👋 About Me
-<table>
-<tr>
-<td width="60%" valign="top">
+## 👋 About Me  
+- 🎓 Recent **B.Tech (AI & DS)** graduate with a strong interest in the **data domain**.  
+- 🚀 Actively working on building expertise in **analytics, engineering, and automation** to grow in this field.  
+- 🔍 I enjoy turning raw data into insights that can support decision-making.  
+- 🌱 Always curious and focused on **continuous learning** to advance my career in data.  
+- 🎯 My goal is to become a **versatile data professional** who can handle both analytics and scalable data engineering solutions.  
 
-- 🎓 B.Tech (AI & DS) graduate focused on building a career in the **data domain**.  
-- 📊 Skilled in **SQL, Python, Power BI, and Excel** to turn raw data into actionable insights.  
-- ☁️ Currently learning **Data Engineering** (Azure Data Factory, Airflow) & automation for scalable analytics.  
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="About Me GIF" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -170,7 +160,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/j5hW1d0q8rNoZp8s4U/giphy.gif" alt="Connect GIF" width="100%" />
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="About Me GIF" width="100%" />
 
 </td>
 </tr>
