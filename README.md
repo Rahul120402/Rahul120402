@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Gradient Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=150&section=header&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=header&width=100%"/>
 
 # Rahul Saini
 
@@ -127,6 +127,6 @@
 <div align="center">
   
 <!-- Gradient Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=150&section=footer&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=120&section=footer&width=100%"/>
 
 </div>
