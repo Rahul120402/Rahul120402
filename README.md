@@ -80,9 +80,11 @@
 <details>
   <summary>🛒 E-commerce Sales Dashboard</summary>
   Tools: Power BI, SQL  
-  Features: Trend analysis boosted revenue by **15%**  
-  ![E-commerce Dashboard](assets/ecommerce_dashboard.png)
+  Features: Trend analysis boosted revenue by **15%**
+
+  📂 **Full Report:** [Click here to view](https://drive.google.com/drive/folders/1nbDqa4OEg2cGgNlaqBkd7Te5reacI3c6?usp=drive_link)
 </details>
+
 
 <details>
   <summary>📚 Library Management System</summary>
