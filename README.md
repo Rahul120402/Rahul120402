@@ -177,6 +177,12 @@
 </table>
 
 ---
+<!-- Animated Quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
+</p>
+
+<div align="center">
 
 <div align="center">
   
