@@ -74,8 +74,10 @@
   <summary>📊 Hotel Booking Dashboard</summary>
   Tools: Power BI, SQL  
   Features: Occupancy trends, revenue analytics  
-  ![Hotel Dashboard](assets/hotel_dashboard.png)
+
+  📂 **Full Report:** [Click here to view](https://drive.google.com/drive/folders/1csyOtG3CwbGwZd8qT2BVNY03y8435xuy?usp=drive_link)
 </details>
+
 
 <details>
   <summary>🛒 E-commerce Sales Dashboard</summary>
