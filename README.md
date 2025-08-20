@@ -26,37 +26,37 @@
 ---
 
 ## 👋 About Me
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 🎓 B.Tech (AI & DS) graduate focused on building a career in the **data domain**.  
 - 📊 Skilled in **SQL, Python, Power BI, and Excel** to turn raw data into actionable insights.  
 - ☁️ Currently learning **Data Engineering** (Azure Data Factory, Airflow) & automation for scalable analytics.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="About Me">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="About Me GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
+<table>
+<tr>
+<td width="60%" valign="top">
+
 <p align="center">
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-
-  <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-
-  <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-
-  <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>
-
-  <!-- Power BI -->
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30"/>
-
-  <!-- Excel -->
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
 </p>
 
@@ -64,24 +64,42 @@
 **BI/ETL:** Power BI (DAX, Modeling), Excel (Advanced Formulas, Pivot, Power Query, Macros), Azure Data Factory, Airflow  
 **Other:** Basic Java, HTML  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Tech Stack">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Stack GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📚 Currently Learning
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - Advanced SQL (Window Functions, Optimization)  
 - Data Engineering with Apache Airflow  
 - Generative AI for Analytics  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Learning">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Learning GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📂 Projects (Click to Expand)
+<table>
+<tr>
+<td width="60%" valign="top">
+
 <details>
   <summary>📊 Hotel Booking Dashboard</summary>
   Tools: Power BI, SQL  
@@ -90,7 +108,6 @@
   📂 **Full Report:** [Click here to view](https://drive.google.com/drive/folders/1csyOtG3CwbGwZd8qT2BVNY03y8435xuy?usp=drive_link)
 </details>
 
-
 <details>
   <summary>🛒 E-commerce Sales Dashboard</summary>
   Tools: Power BI, SQL  
@@ -98,7 +115,6 @@
 
   📂 **Full Report:** [Click here to view](https://drive.google.com/drive/folders/1nbDqa4OEg2cGgNlaqBkd7Te5reacI3c6?usp=drive_link)
 </details>
-
 
 <details>
   <summary>📚 Library Management System</summary>
@@ -112,37 +128,55 @@
   Achieved ~85% accuracy on toxic content classification  
 </details>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Projects">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Projects GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 What Drives Me
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 💡 Turning raw data into insights  
 - ⚡ Automating processes for efficiency  
 - 🌍 Building scalable data solutions   
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Motivation">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Drives Me GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Connect
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 📫 **Email:** [rahulkp1204@gmail.com](mailto:rahulkp1204@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/rahul-saini-082ab6238](https://www.linkedin.com/in/rahul-saini-082ab6238/)  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/j5h0EC3jx9HjXWjlU3/giphy.gif" width="300" alt="Connect">
-</p>
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/j5hW1d0q8rNoZp8s4U/giphy.gif" alt="Connect GIF" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
-
-<!-- Animated Quote -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Learning+every+day;One+dataset+at+a+time;Data+is+the+new+oil!" />
-</p>
 
 <div align="center">
   
